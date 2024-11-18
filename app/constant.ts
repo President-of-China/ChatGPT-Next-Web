@@ -389,7 +389,7 @@ const iflytekModels = [
   "4.0Ultra",
 ];
 
-const xAIModes = ["grok-beta"];
+const xAIModes = ["grok-beta", "grok-vision-beta"];
 
 const chatglmModels = [
   "glm-4-plus",
